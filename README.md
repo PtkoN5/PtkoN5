@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+just a Smalltown Boy, who is having funn at learning something new
+
 <!--
 **PtkoN5/PtkoN5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
